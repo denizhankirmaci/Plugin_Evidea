@@ -1,0 +1,7 @@
+D:\Projects_OrangeWorkz\Plugin_Evidea\MyPlugins\bin\Debug\MyPlugins.dll
+D:\Projects_OrangeWorkz\Plugin_Evidea\MyPlugins\bin\Debug\MyPlugins.pdb
+D:\Projects_OrangeWorkz\Plugin_Evidea\MyPlugins\bin\Debug\Plugins.dll
+D:\Projects_OrangeWorkz\Plugin_Evidea\MyPlugins\bin\Debug\Plugins.pdb
+D:\Projects_OrangeWorkz\Plugin_Evidea\MyPlugins\obj\Debug\MyPlugins.csprojResolveAssemblyReference.cache
+D:\Projects_OrangeWorkz\Plugin_Evidea\MyPlugins\obj\Debug\MyPlugins.dll
+D:\Projects_OrangeWorkz\Plugin_Evidea\MyPlugins\obj\Debug\MyPlugins.pdb

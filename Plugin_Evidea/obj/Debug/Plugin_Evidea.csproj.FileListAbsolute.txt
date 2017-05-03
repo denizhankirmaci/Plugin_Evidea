@@ -1,0 +1,10 @@
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\bin\Debug\Plugin_Evidea.exe.config
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\bin\Debug\Plugin_Evidea.exe
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\bin\Debug\Plugin_Evidea.pdb
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\obj\Debug\Plugin_Evidea.Form1.resources
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\obj\Debug\Plugin_Evidea.Properties.Resources.resources
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\obj\Debug\Plugin_Evidea.csproj.GenerateResource.Cache
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\obj\Debug\Plugin_Evidea.exe
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\obj\Debug\Plugin_Evidea.pdb
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\bin\Debug\Plugin\MyPlugins.dll
+D:\Projects_OrangeWorkz\Plugin_Evidea\Plugin_Evidea\obj\Debug\Plugin_Evidea.csprojResolveAssemblyReference.cache
